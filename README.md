@@ -1,20 +1,24 @@
-
-
-
-
 <h1 align="center">Hi 👋, I'm Pratipal Dhaulakhandi</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/11DWmFu-wB27zXlC92RMaKEh4KfeVHnsvgzvxuQRMz8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
+
+<img align="right" width="400" alt="coding" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratipal31&label=Profile%20views&color=0e75b6&style=flat" alt="pratipal31" /> </p>
 
 - 🔭 I’m currently studying **Computer Science**
 
-- 🌱 I’m currently learning **Next Js**
+- 💬 Ask me about **Python , Javascript , React**
+
+- 🌱 I’m currently learning **Next Js, Mongo DB**
 
 - 📫 How to reach me **pratipal.dhaulakhandi.31@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1DbmDptHtmDMN4r9U8rM4QBuetSBF7_WS/view?usp=drivesdk](https://drive.google.com/file/d/1DbmDptHtmDMN4r9U8rM4QBuetSBF7_WS/view?usp=drivesdk)
+
+- ⚡ Fun fact **I like solving errors**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/pratipal31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pratipal31" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pratipal dhaulakhandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratipal dhaulakhandi" height="30" width="40" /></a>
 <a href="https://instagram.com/__pratipal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__pratipal" height="30" width="40" /></a>
 </p>
