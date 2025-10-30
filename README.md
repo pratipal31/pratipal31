@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently studying **Computer Science**
 
-- 💬 Ask me about **Python , Javascript , React**
+- 💬 Ask me about **Java , NextJs , Typescript**
 
-- 🌱 I’m currently learning **Next Js, Mongo DB**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **pratipal.dhaulakhandi.31@gmail.com**
 
